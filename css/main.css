@@ -1199,7 +1199,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ec0aa2;
+  background: #5dffff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2692,7 +2692,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("/assets/background.jpg");
+  background: url("/assets/background.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
@@ -2702,8 +2702,5 @@ body {
   background: #0684bd;
 }
 .brand {
-  color: #4dfc23;
-}
-.site-subtitle {
   color: #4dfc23;
 }
