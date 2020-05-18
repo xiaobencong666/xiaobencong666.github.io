@@ -3,7 +3,7 @@
   <entry>
     <title>Hexo教程</title>
     <url>/2020/05/18/Hexo%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<h4 id="1-Github-Pages"><a href="#1-Github-Pages" class="headerlink" title="1.Github Pages"></a>1.Github Pages</h4><p> 注册账号</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="1-Github-Pages"><a href="#1-Github-Pages" class="headerlink" title="1.Github Pages"></a>1.Github Pages</h4><p> 注册账号</p>
 <a id="more"></a>]]></content>
       <categories>
         <category>Hexo教程</category>
@@ -14,9 +14,51 @@
       </tags>
   </entry>
   <entry>
+    <title>插入图片、音乐、视频</title>
+    <url>/2020/05/18/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E3%80%81%E9%9F%B3%E4%B9%90%E3%80%81%E8%A7%86%E9%A2%91/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="1-插入图片"><a href="#1-插入图片" class="headerlink" title="1.插入图片"></a>1.插入图片</h4><img data-src="/2020/05/18/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E3%80%81%E9%9F%B3%E4%B9%90%E3%80%81%E8%A7%86%E9%A2%91/piano.jpg" class title="This is an image">
+<p><a href="https://www.autopiano.cn/" target="_blank" rel="noopener">自由钢琴链接</a></p>
+<a id="more"></a>
+<h4 id="2-插入视频"><a href="#2-插入视频" class="headerlink" title="2.插入视频"></a>2.插入视频</h4><iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=x0959lnp1e6" allowfullscreen="true"></iframe>
+
+<h4 id="3-插入音频"><a href="#3-插入音频" class="headerlink" title="3.插入音频"></a>3.插入音频</h4><p>1</p>
+
+        <div id="aplayer-wsNzEGrf" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-wsNzEGrf"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "好想爱这个世界啊",
+              author: "华晨宇",
+              url: "https://music.163.com/#/song?id=1436910205",
+              pic: "http://www.win4000.com/meinv198736.html",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+<p>2</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1436910205&auto=1&height=66"></iframe>
+]]></content>
+      <categories>
+        <category>媒体资源</category>
+      </categories>
+      <tags>
+        <tag>图片</tag>
+        <tag>音乐</tag>
+        <tag>视频</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/05/16/hello-world/</url>
-    <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
