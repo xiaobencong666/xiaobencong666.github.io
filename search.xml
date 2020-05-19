@@ -14,37 +14,22 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/05/16/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-  </entry>
-  <entry>
     <title>插入图片、音乐、视频</title>
     <url>/2020/05/18/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E3%80%81%E9%9F%B3%E4%B9%90%E3%80%81%E8%A7%86%E9%A2%91/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="1-插入图片"><a href="#1-插入图片" class="headerlink" title="1.插入图片"></a>1.插入图片</h4><img data-src="/2020/05/18/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E3%80%81%E9%9F%B3%E4%B9%90%E3%80%81%E8%A7%86%E9%A2%91/piano.jpg" class title="This is an image">
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="1-插入图片"><a href="#1-插入图片" class="headerlink" title="1.插入图片"></a>1.插入图片</h4><img data-src="/2020/05/18/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E3%80%81%E9%9F%B3%E4%B9%90%E3%80%81%E8%A7%86%E9%A2%91/background6.png" class title="This is an image">
+<img data-src="/2020/05/18/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E3%80%81%E9%9F%B3%E4%B9%90%E3%80%81%E8%A7%86%E9%A2%91/background.png" class title="This is an image">
 <p><a href="https://www.autopiano.cn/" target="_blank" rel="noopener">自由钢琴链接</a></p>
 <a id="more"></a>
-<h4 id="2-插入视频"><a href="#2-插入视频" class="headerlink" title="2.插入视频"></a>2.插入视频</h4><iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=x0959lnp1e6" allowfullscreen="true"></iframe>
+<h4 id="2-插入视频"><a href="#2-插入视频" class="headerlink" title="2.插入视频"></a>2.插入视频</h4><iframe src="//player.bilibili.com/player.html?aid=795734231&bvid=BV1fC4y1H7TC&cid=192411357&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <h4 id="3-插入音频"><a href="#3-插入音频" class="headerlink" title="3.插入音频"></a>3.插入音频</h4><p>1</p>
 
-        <div id="aplayer-erbitBGY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-TwUzIDqa" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-erbitBGY"),
+            element: document.getElementById("aplayer-TwUzIDqa"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -70,5 +55,21 @@
         <tag>音乐</tag>
         <tag>视频</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/05/16/hello-world/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
   </entry>
 </search>
