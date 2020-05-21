@@ -598,8 +598,27 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
 <!-- 网页标题崩溃样式 -->
   <script type="text/javascript" src="/js/webtitlecheat.js"></script>
   
+
 <!-- 小笨聪天气播报 -->
+<!-- 定位不能用
 <script type="text/javascript">
 WIDGET = {FID: '82BQkbReYX'}
 </script>
 <script type="text/javascript" src="https://apip.weatherdt.com/float/static/js/r.js?v=1111"></script>
+-->
+
+<div id="tp-weather-widget"></div>
+  <script>
+    (function(a,h,g,f,e,d,c,b){b=function(){d=h.createElement(g);c=h.getElementsByTagName(g)[0];d.src=e;d.charset="utf-8";d.async=1;c.parentNode.insertBefore(d,c)};a["SeniverseWeatherWidgetObject"]=f;a[f]||(a[f]=function(){(a[f].q=a[f].q||[]).push(arguments)});a[f].l=+new Date();if(a.attachEvent){a.attachEvent("onload",b)}else{a.addEventListener("load",b,false)}}(window,document,"script","SeniverseWeatherWidget","//cdn.sencdn.com/widget2/static/js/bundle.js?t="+parseInt((new Date().getTime() / 100000000).toString(),10)));
+    window.SeniverseWeatherWidget('show', {
+      flavor: "bubble",
+      location: "WTMKQ069CCJ7",
+      geolocation: true,
+      language: "zh-Hans",
+      unit: "c",
+      theme: "auto",
+      token: "320895f4-e5ce-42a8-837f-cba6c264c222",
+      hover: "enabled",
+      container: "tp-weather-widget"
+    })
+  </script>
