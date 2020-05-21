@@ -1220,7 +1220,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #8590ff;
+  background: #58adff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2737,7 +2737,7 @@ body {
   opacity: 0.8;
 }
 .brand {
-  color: #05f5f8;
+  color: #09f;
 }
 .posts-collapse {
   margin: 50px 0px;
