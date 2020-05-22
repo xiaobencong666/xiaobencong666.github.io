@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hexo教程</title>
-    <url>/2020/05/18/Hexo%E6%95%99%E7%A8%8B/</url>
+    <url>/Hexo%E6%95%99%E7%A8%8B/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="1-下载安装-Git-和-Node-js"><a href="#1-下载安装-Git-和-Node-js" class="headerlink" title="1.下载安装 Git 和 Node.js"></a>1.下载安装 Git 和 Node.js</h4><h4 id="2-新建-Github-Pages-仓库"><a href="#2-新建-Github-Pages-仓库" class="headerlink" title="2.新建 Github Pages 仓库"></a>2.新建 Github Pages 仓库</h4><a id="more"></a>
 <h4 id="3-下载-hexo-并部署"><a href="#3-下载-hexo-并部署" class="headerlink" title="3.下载 hexo 并部署"></a>3.下载 hexo 并部署</h4><h4 id="4-关联个人域名"><a href="#4-关联个人域名" class="headerlink" title="4.关联个人域名"></a>4.关联个人域名</h4><h4 id="5-更新美化好看主题"><a href="#5-更新美化好看主题" class="headerlink" title="5.更新美化好看主题"></a>5.更新美化好看主题</h4>]]></content>
       <categories>
@@ -15,7 +15,7 @@
   </entry>
   <entry>
     <title>插入图片、音乐、视频</title>
-    <url>/2020/05/18/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E3%80%81%E9%9F%B3%E4%B9%90%E3%80%81%E8%A7%86%E9%A2%91/</url>
+    <url>/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E3%80%81%E9%9F%B3%E4%B9%90%E3%80%81%E8%A7%86%E9%A2%91/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="1-插入图片"><a href="#1-插入图片" class="headerlink" title="1.插入图片"></a>1.插入图片</h4><img data-src="/2020/05/18/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E3%80%81%E9%9F%B3%E4%B9%90%E3%80%81%E8%A7%86%E9%A2%91/background6.png" class title="This is an image">
 <a id="more"></a>
 <img data-src="/2020/05/18/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E3%80%81%E9%9F%B3%E4%B9%90%E3%80%81%E8%A7%86%E9%A2%91/background.png" class title="This is an image">
@@ -59,7 +59,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/2020/05/16/hello-world/</url>
+    <url>/hello-world/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
