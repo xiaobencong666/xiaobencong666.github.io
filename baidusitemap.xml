@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://xiaobencong.com/Hexo%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://xiaobencong.com/title/</loc>
     <lastmod>2020-05-19</lastmod>
   </url>  <url>
-    <loc>https://xiaobencong.com/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E3%80%81%E9%9F%B3%E4%B9%90%E3%80%81%E8%A7%86%E9%A2%91/</loc>
+    <loc>https://xiaobencong.com/title/</loc>
     <lastmod>2020-05-19</lastmod>
   </url>  <url>
-    <loc>https://xiaobencong.com/hello-world/</loc>
+    <loc>https://xiaobencong.com/title/</loc>
     <lastmod>2020-05-18</lastmod>
   </url>
 </urlset>
