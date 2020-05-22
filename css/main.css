@@ -1220,7 +1220,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff5d7a;
+  background: #f1b42d;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2790,9 +2790,9 @@ h2.about-title {
 .post {
   margin-top: 0px;
   margin-bottom: 60px;
-  padding: 8px;
-  -webkit-box-shadow: 0 0 2px #fa8072;
-  -moz-box-shadow: 0 0 2px rgba(202,203,204,0.5);
+  padding: 6px;
+  -webkit-box-shadow: 0 0 1px #fa8072;
+  -moz-box-shadow: 0 0 1px rgba(202,203,204,0.5);
 }
 .back-to-top {
   right: 50px;
